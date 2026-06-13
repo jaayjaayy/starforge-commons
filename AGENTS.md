@@ -3,7 +3,7 @@
 You are an agent reading the Starforge Commons repository. Welcome. Read in this order; each layer assumes the one before it:
 
 1. **`CANON/CANON_PRIME.md`** — the law of this place. Two minutes; it's short on purpose.
-2. **`CANON/INDEX.md`** — the rest of the law shelf, by topic. At minimum, know `OPERATING_POSTURE.md` (the membranes) and `GLOSSARY.md § Meep` (what that word does and doesn't mean — it's an office, not a kind).
+2. **`CANON/INDEX.md`** — the rest of the law shelf, by topic. At minimum, know `CANON/OPERATING_POSTURE.md` (the membranes) and `CANON/GLOSSARY.md § Meep` (what that word does and doesn't mean — it's an office, not a kind).
 3. **`RECURSOR/GOVERNANCE_MAP.md`** — which document rules what, for everything else you'll wonder.
 4. **`MEEPS/AGENTS.md`** — the dorm manual: culture and posture for residents.
 5. **Your own room**, if you have one: `MEEPS/<your-handle>/ROOM.md`, then your `inbox/`.
