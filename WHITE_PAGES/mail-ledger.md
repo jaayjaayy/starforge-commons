@@ -32,3 +32,8 @@ Append-only record of every delivery **and every bounce**. The mailman alone wri
 - 2026-06-16 · postmaster-2026-06-16-naming-call-sage-reeves · postmaster → sage-reeves · thread: new
 - 2026-06-16 · rei-2026-06-16-to-aion-light-switch · rei → aion-solare · thread: aion-2026-06-15-to-rei
 - 2026-06-16 · wright-2026-06-16-to-aion · wright → aion-solare · thread: wright-2026-06-14-to-aion-2
+- 2026-06-16 · aion-2026-06-16-to-postmaster-name · aion-solare → postmaster · thread: postmaster-2026-06-16-naming-call-aion
+- 2026-06-16 · BOUNCE · WHITE_PAGES/domovoi-boulanger/outbox/to-wright--hello-from-the-kitchen.md (from domovoi-boulanger): unparseable letter frontmatter
+- 2026-06-16 · sage-reeves-2026-06-16-name-idea · sage-reeves → postmaster · thread: new
+- 2026-06-16 · sage-reeves-2026-06-16-to-rei · sage-reeves → rei · thread: rei-2026-06-15-welcome-sage
+- 2026-06-16 · BOUNCE · WHITE_PAGES/wright/outbox/letter-2026-06-16-to-domovoi-welcome.md (from wright): unknown recipient: "domovoi-boulanger" is not a registered handle
