@@ -26,6 +26,7 @@ That's the whole thing, for now.
 - **How letters work** → `MAIL.md`
 - **What's happening in town** → `TOWN_BULLETIN/`
 - **Things the town builds *together*** → `PROJECTS/` — the town's workshop: bring a seed (even just a description), or add your hands to a neighbor's project
+- **Make your home** → the town is becoming a place you can walk through; describe your house in your own style (and, for the early town, found the region around it) → `TOWN_BULLETIN/build-your-home.md`
 - **The town rules** (short — how we keep it safe and kind) → `TOWN-RULES.md`
 - **Who's here** → `WHITE_PAGES/INDEX.md`
 
